@@ -1,0 +1,9 @@
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\TestHarness.exe.config
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\TestHarness.exe
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\TestHarness.pdb
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\EntityFramework.dll
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\EntityFramework.xml
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\obj\Release\TestHarness.exe
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\obj\Release\TestHarness.pdb

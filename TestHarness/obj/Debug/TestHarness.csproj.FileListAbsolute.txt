@@ -1,0 +1,22 @@
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.dll
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.xml
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.pdb
+C:\Users\Kuvshik\Documents\Visual Studio 2015\Projects\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\TestHarness.exe.config
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\TestHarness.exe
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\TestHarness.pdb
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.dll
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.xml
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.csprojAssemblyReference.cache
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.csproj.CopyComplete
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.exe
+C:\Icnea\Fuentes\Ejemplos\PopulateObjectFromXML\TestHarness\obj\Debug\TestHarness.pdb
